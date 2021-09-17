@@ -1,5 +1,5 @@
 import nltk
-import pickle
+import pickle5 as pickle
 from nltk.corpus import stopwords
 import string
 
