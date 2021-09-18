@@ -13,7 +13,8 @@ Sentiment Analysis refers to detecting the polarity of any comment whether it is
 <p>
 <b>Dataset : </b>NLTK Dataset which containes the positive and Negative fileids<br>
 <b>Libraries : </b>Python , Numpy , Pandas, NLTK , Sklearn , Node.js , Express.js.<br>
-<b>Frameworks : </b>VScode , jupyter Notebook , Heroku.
+<b>Frameworks : </b>VScode , jupyter Notebook , Heroku.<br>
+<b>Notebook For developing the Machine Learning model : </b> <a href="https://colab.research.google.com/drive/1PymrpibwZIB7l1GyfrmLLEn7VU9JBqfY?usp=sharing">https://colab.research.google.com/drive/1PymrpibwZIB7l1GyfrmLLEn7VU9JBqfY?usp=sharing</a>
 </p>
 <hr>
 <h2>Project Methodology</h2>
@@ -32,4 +33,29 @@ as we can see the SVC classifer gave the best Accuracy so i downloaded the SVC m
 </p>
 <hr>
 <h2>ScreenShots of the Website Deployed</h2>
-
+<b><p>Entering a positive comment.</p></b>
+<img src="./sentiment analysis/pic1.png">
+<b><p>Predicting the output for the comment entered.</p></b>
+<img src="./sentiment analysis/p2.png">
+<b><p>Entering a negative comment.</p></b>
+<img src="./sentiment analysis/p3.png">
+<b><p>Predicting the sentiment of the comment entered with comment below in the box.</p></b>
+<img src="./sentiment analysis/p4.png">
+<hr>
+<h2>Running the Project</h2>
+<p><b>1. Accesing the website online </b></p>
+  <p> To access the website and check its working you can visit this link <a href="https://senti-analysis98.herokuapp.com/">https://senti-analysis98.herokuapp.com/</a> <br>
+ <p><b>2. Copying to local repository </b></p>
+  <p> In your terminal run the following commands : <br><br>
+     <b>
+     git clone https://github.com/Steveroger5/Sentiment_Analysis.git<br>
+     cd Sentiment_Analysis<br>
+     python app.py<br>
+     Open https://localhost:3000 <br>
+     </b>
+  </p>
+ <hr>
+ <h2>Contributors</h2>
+ <p><a href="https://github.com/Steveroger5">Gagandeep Singh</a></p>
+ <hr>
+    
