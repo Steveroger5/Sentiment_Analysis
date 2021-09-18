@@ -23,6 +23,7 @@ In this project I have developed a machine learning model to classify the polari
 Below is brief description of every step and technique used by me.<br><br>
 <b>Tokenisation :</b> In this step first we break the given text into subsequent words involved.<br>
 <b>Stopword Removal :</b>In this step we remove the words that don't play a role in determining the polarity of a sentiment like is,am,are etc.<br>
+<b>Lemmatization :</b> Converting the words to thier base word using the part of speech tags and wordnet to convert it accordingly.<br>
 <b>Building dictionary :</b>In this step we combine every sentiment to get a wholesome dictionary from which we classify the top occuring words which wll further be used to convert the sentiment into a binary vector.<br>
 <b>Building Vectorizer :</b>In this step we basically check which words from the previous dictionary are present and absent at the same time. so now we have created a binary dataframe from the words in our dictionary.<br>
 <b>Applying the machine learning Models :</b>In this step i applied three machine learning models below are their names and their corresponding accuracy.<br>
