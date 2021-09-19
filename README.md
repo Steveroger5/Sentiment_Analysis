@@ -56,6 +56,9 @@ as we can see the SVC classifer gave the best Accuracy so i downloaded the SVC m
      </b>
   </p>
  <hr>
+ <h2>Methodology</h2>
+ <img src="./methodology.jpeg">
+ <hr>
  <h2>Contributors</h2>
  <p><a href="https://github.com/Steveroger5">Gagandeep Singh</a></p>
  <hr>
